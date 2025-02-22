@@ -15,11 +15,11 @@
 </summary>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=V-Swing&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=Dam-Management-Web-App&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=Java-Data-Structures&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=C-Data-Structures&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=Binary-Text-Editor&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Vinokaa/V-Swing"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=V-Swing&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Vinokaa/Dam-Management-Web-App"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=Dam-Management-Web-App&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Vinokaa/Java-Data-Structures"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=Java-Data-Structures&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Vinokaa/C-Data-Structures"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=C-Data-Structures&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  <a href="https://github.com/Vinokaa/Binary-Text-Editor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vinokaa&repo=Binary-Text-Editor&theme=react&bg_color=1F222E&title_color=D600FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 </p>
 
 #
