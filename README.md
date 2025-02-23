@@ -28,7 +28,7 @@
   <h2> 👨‍💻 Languages and Tools </h2>
   <div align="center">
     <img height="50px" src="https://github.com/user-attachments/assets/2343a9e3-6073-4b79-859e-ceeef20c2478">
-    <img height="50px" src="https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img height="50px" src="https://github.com/user-attachments/assets/461b187b-0c58-4e46-a0a5-8ecc1c168010">
     <img height="50px" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   </div>
   <div align="center">
