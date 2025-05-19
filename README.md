@@ -45,7 +45,7 @@
     <img height="50px" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img height="50px" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   </div>
-  <div align="center">
+  <!--<div align="center">
     <img height="50px" src="https://img.shields.io/badge/apache%20spark-e25a1c?style=for-the-badge&logo=apachespark&logoColor=white">
     <img height="50px" src="https://img.shields.io/badge/apache%20hadoop-ffff00?style=for-the-badge&logo=apachehadoop&logoColor=black">
   </div>
@@ -65,5 +65,5 @@
   </div>
   <div align="center">
     <img height="50px" src="https://img.shields.io/badge/uml-962444?style=for-the-badge&logo=uml&logoColor=white">
-  </div>
+  </div>-->
 </summary>
